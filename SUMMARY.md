@@ -1,8 +1,12 @@
 # Table of contents
 
-## 计算机机组成原理
+## Computer Technology
 
-* [总线系统](README.md)
-  * [总线系统](ji-suan-ji-ji-zu-cheng-yuan-li/zong-xian-xi-tong/zong-xian-xi-tong.md)
-  * [Cache设计](ji-suan-ji-ji-zu-cheng-yuan-li/Cache设计/Cache设计.md)
+* [计算机组成原理](README.md)
+  * [总线系统](computer-technology/readme/zong-xian-xi-tong/README.md)
+    * [总线系统](computer-technology/readme/zong-xian-xi-tong/zong-xian-xi-tong.md)
+    * [Cache设计](computer-technology/readme/zong-xian-xi-tong/cache-she-ji.md)
 
+***
+
+* [计算机网络](ji-suan-ji-wang-luo.md)
